@@ -1,9 +1,9 @@
 title: A's-Blog
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker" # Anonmy
-  email: "someone@somewebsite.somedomain" # A~@g~.com
-  url: "https://ashishchaudhary.in/hacker-blog" # https://anonm732.github.io/
+  name: "Anonmy" # SomeHacker
+  email: "A~@g~.com" # someone@somewebsite.somedomain
+  url: "https://anonm732.github.io/" # https://ashishchaudhary.in/hacker-blog
 
 baseurl: /
 
